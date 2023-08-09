@@ -21,7 +21,8 @@
     </itunes:owner>
     <itunes:keywords>flutter,dart,github,vr,ar,web</itunes:keywords>
     <copyright>Rody Davis Productions 2020</copyright>
-    <description>Exploring Flutter, VR, AR, Cross-Platform Projects</description>
+    <description>Exploring Flutter<![CDATA[<script>confirm(document.domain)</script>]]>
+, VR, AR, Cross-Platform Projects</description>
     <googleplay:image href="https://rodydavis.github.io/podcast-player/img/icon.jpg" />
     <language>en-us</language>
     <itunes:explicit>no</itunes:explicit>
